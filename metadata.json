@@ -1,0 +1,5 @@
+{
+  "name": "Reliant: AI News Literacy",
+  "description": "An AI-powered news literacy ecosystem. Analyze news bias, compare sources, and use Reliant Verify to fact-check any text, link, or image screenshot from the web.",
+  "requestFramePermissions": []
+}
